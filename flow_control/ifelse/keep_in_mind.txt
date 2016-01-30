@@ -1,0 +1,16 @@
+Remember that in rust if/else expressions do not need ()
+
+if 2 > 5 { 
+//values
+} else {
+//other values
+}
+
+it can also be a values for a let
+
+let x =
+    if 10 < 2 {
+        x <- notice no semicolon
+    } else {
+        y
+    }; <- in this case the semicolon actually belongs here

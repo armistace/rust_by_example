@@ -1,0 +1,11 @@
+A Crate is a compilation unit in Rust
+
+mod declarations will be merged in to the main rs compilations
+
+this will happen before running the compiler
+
+modules do not get compiled only crates (the file I have asked to be compiled)
+
+crate can be compiled into binary or library
+
+default is binary but can be overriden with --crate-type

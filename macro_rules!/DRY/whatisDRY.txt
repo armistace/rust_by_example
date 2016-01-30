@@ -1,0 +1,1 @@
+DRY stands for Don't Repeat Yourself. Using macros it is possible to create "templates" for functions so that I can implement them this slightly different paramters even when the logic is the same

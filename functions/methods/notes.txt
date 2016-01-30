@@ -1,0 +1,23 @@
+*****************************
+*       Just in Case        *
+*****************************
+
+Methods are sort of like classes
+
+you create a struct
+
+struct something {
+    variable,
+    variable
+}
+
+and then add an implementation
+
+impl something {
+    fn i_will_make_this_work {
+        //do something
+    }
+}
+
+see the code for more advanced method functions
+
