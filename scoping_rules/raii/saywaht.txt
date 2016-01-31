@@ -1,0 +1,3 @@
+raii stands for "Resource Acquisition is Initialisation". It means that variables don't just hold data, they OWN it.
+
+This deals with resource leak probs. it means that variables can NEVER leave their scope
