@@ -1,0 +1,5 @@
+A phtntom type parameter is one that doesnt' show up at runtime but is checked stsically and only at compile time
+
+Data types can use extra gerneic type parameters to act as marikers or to perform compile time type checking. These extra parameter hold no stroage calues and have no run time behaviour 
+
+Here we combin std::marker::PhatnomData with the phantom type parameter concept to create typeles containing different data types
